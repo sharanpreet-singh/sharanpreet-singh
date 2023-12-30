@@ -1,4 +1,6 @@
-### Hi there 👋
+# 👨‍🎓 Sharanpreet Singh
+
+**`Learner and Implementer (Analyst, Student, Poet and Photographer)`** 
 
 <!--
 **sharanpreet-singh/sharanpreet-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
