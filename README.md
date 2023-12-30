@@ -1,6 +1,10 @@
 # 👨‍🎓 Sharanpreet Singh
 
-**`Learner and Implementer (Analyst, Student, Poet and Photographer)`** 
+**`Learner and Implementer (Analyst, Poet and Photographer)`** 
+
+Hey 👋
+
+I'm a data analytics graduate with working experience in technologies like SQL and Excel to find insights from unstructured data that have helped the companies I have worked for make business decisions. I completed my Masters in Analytics so as to learn more about the field and gain a formal understanding of what the industry needs are. It has helped me become proficient in technologies such as R and Python, and also in developing dashboards using softwares such as Tableau, Power BI and R-Dashboards. 
 
 <!--
 **sharanpreet-singh/sharanpreet-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
