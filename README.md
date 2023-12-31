@@ -17,11 +17,13 @@ I'm a data analytics graduate with working experience in technologies like SQL a
 <img align="left" alt="R Studio" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 
 <br>
+<br>
 
 ### Packages 
 <img align="left" alt="Numpy" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
 <img align="left" alt="Pandas" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 
+<br>
 <br>
 
 ### Video Editing Tools
